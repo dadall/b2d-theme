@@ -55,9 +55,6 @@ body {
 <h2 class="title">Page non trouvée</h2>
 <p class="message">
 La page que vous avez demandée n'existe pas.
-<br />
-Envisagez une <a href="http://www.dadall.info/blog/index.php?search">recherche</a>, on ne sait jamais ! <br />
-Sinon, vous pouvez <a href="javascript:history.go(-1)">revenir en arrière</a> ou aller visiter le <?php $plxShow->mainTitle('link'); ?>
 </p>
 </div>
 
