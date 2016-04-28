@@ -3,6 +3,7 @@
 $LANG = array(
 
 #header.php
+'MENU'					=> 'Menu',
 'HOME'					=> 'Home',
 'GOTO_CONTENT'			=> 'Goto content',
 'GOTO_MENU'				=> 'Goto menu',
@@ -45,6 +46,11 @@ $LANG = array(
 'SEND'					=> 'Send',
 'COMMENTS_CLOSED'		=> 'Comments are closed',
 'ANTISPAM_WARNING'		=> 'Anti-spam checking',
+
+'REPLY'					=> 'Reply',
+'REPLY_TO'				=> 'Reply to',
+'CANCEL'				=> 'Cancel',
+
 );
 
 ?>

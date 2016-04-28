@@ -3,6 +3,7 @@
 $LANG = array(
 
 #header.php
+'MENU'					=> 'Menu',
 'HOME'					=> 'Accueil',
 'GOTO_CONTENT'			=> 'Aller au contenu',
 'GOTO_MENU'				=> 'Aller au menu',
@@ -26,7 +27,7 @@ $LANG = array(
 'TOP'					=> 'Haut de page',
 
 # erreur.php
-'ERROR'					=> 'La page que vous avez demandé n\'existe pas',
+'ERROR'					=> 'La page que vous avez demandée n\'existe pas',
 'BACKTO_HOME'			=> 'Retour à la page d\'accueil',
 
 # common
@@ -45,6 +46,11 @@ $LANG = array(
 'SEND'					=> 'Envoyer votre commentaire',
 'COMMENTS_CLOSED'		=> 'Les commentaires sont fermés',
 'ANTISPAM_WARNING'		=> 'Vérification anti-spam',
+
+'REPLY'					=> 'Répondre',
+'REPLY_TO'				=> 'Répondre à',
+'CANCEL'				=> 'Annuler',
+
 );
 
 ?>

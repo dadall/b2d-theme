@@ -3,6 +3,7 @@
 $LANG = array(
 
 #header.php
+'MENU'					=> 'Meniu',
 'HOME'					=> 'Home',
 'GOTO_CONTENT'			=> 'La con&#355;inut',
 'GOTO_MENU'				=> 'La meniu',
@@ -45,6 +46,11 @@ $LANG = array(
 'SEND'					=> 'Trimite',
 'COMMENTS_CLOSED'		=> 'Comentariile sunt &#238;nchise',
 'ANTISPAM_WARNING'		=> 'Verificare anti-spam',
+
+'REPLY'					=> 'Răspuns',
+'REPLY_TO'				=> 'Răspuns',
+'CANCEL'				=> 'Anulare',
+
 );
 
 ?>
