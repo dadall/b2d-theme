@@ -22,9 +22,9 @@
 
 					</h1>
 					<p>
-						<?php $plxShow->lang('WRITTEN_BY') ?> <?php $plxShow->artAuthor(); ?> /
-						<?php $plxShow->artDate('#num_day #month #num_year(4)'); ?> /
-						<?php $plxShow->artNbCom(); ?>
+						<?php $plxShow->lang('WRITTEN_BY') ?> <span class="author"><?php $plxShow->artAuthor(); ?></span> /
+						<time datetime="<?php $plxShow->artDate('#num_year(4)-#num_month-#num_dayT#hour:#minute'); ?>"><?php $plxShow->artDate('#num_day #month #num_year(4)'); ?></time> /
+						<span class="comments-nb"><?php $plxShow->artNbCom(); ?></span>
 
 
 
