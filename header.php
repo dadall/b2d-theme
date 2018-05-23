@@ -2,10 +2,9 @@
 <!DOCTYPE html>
 <html lang="<?php $plxShow->defaultLang() ?>">
 
-<link rel="shortcut icon" href="<?php $plxShow->template() ?>/favicon.png" />
-
 <head>
 <meta charset="<?php $plxShow->charset('min'); ?>">
+<link rel="shortcut icon" href="<?php $plxShow->template() ?>/favicon.png" />
 <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0">
 <title><?php $plxShow->pageTitle(); ?></title>
 <?php $plxShow->meta('description') ?>
